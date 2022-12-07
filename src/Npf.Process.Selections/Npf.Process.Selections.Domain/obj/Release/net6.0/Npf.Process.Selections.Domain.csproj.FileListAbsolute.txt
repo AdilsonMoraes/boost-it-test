@@ -1,0 +1,12 @@
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\bin\Release\net6.0\Npf.Process.Selections.Domain.deps.json
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\bin\Release\net6.0\Npf.Process.Selections.Domain.dll
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\bin\Release\net6.0\Npf.Process.Selections.Domain.pdb
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\Npf.Process.Selections.Domain.csproj.AssemblyReference.cache
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\Npf.Process.Selections.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\Npf.Process.Selections.Domain.AssemblyInfoInputs.cache
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\Npf.Process.Selections.Domain.AssemblyInfo.cs
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\Npf.Process.Selections.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\Npf.Process.Selections.Domain.dll
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\refint\Npf.Process.Selections.Domain.dll
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\Npf.Process.Selections.Domain.pdb
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Domain\obj\Release\net6.0\ref\Npf.Process.Selections.Domain.dll

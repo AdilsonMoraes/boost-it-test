@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eq1FTnnePj8VAuaaJbHqlSjsEaTu05O/F0UelN8VdlY=",
+  "Source": "Npf.Process.Selections.Api",
+  "BasePath": "_content/Npf.Process.Selections.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

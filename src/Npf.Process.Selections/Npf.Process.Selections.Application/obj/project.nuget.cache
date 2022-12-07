@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffDx50ahH56YYpKpmDQdRwYSJk9gLIMVG3Gc+EYF4SArw7ZoCUFHaSUROkyD2NxzWFr9kvToORP+E7PsQDsd6g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\boost-it-test\\src\\Npf.Process.Selections\\Npf.Process.Selections.Application\\Npf.Process.Selections.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AdilsonGalp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AdilsonGalp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AdilsonGalp\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\AdilsonGalp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

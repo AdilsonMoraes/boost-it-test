@@ -1,0 +1,15 @@
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\bin\Release\net6.0\Npf.Process.Selections.Application.deps.json
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\bin\Release\net6.0\Npf.Process.Selections.Application.dll
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\bin\Release\net6.0\Npf.Process.Selections.Application.pdb
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\bin\Release\net6.0\Npf.Process.Selections.Domain.dll
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\bin\Release\net6.0\Npf.Process.Selections.Domain.pdb
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.csproj.AssemblyReference.cache
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.AssemblyInfoInputs.cache
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.AssemblyInfo.cs
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.csproj.CoreCompileInputs.cache
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.csproj.CopyComplete
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.dll
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\refint\Npf.Process.Selections.Application.dll
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\Npf.Process.Selections.Application.pdb
+C:\Projects\NPF\src\Npf.Process.Selections\Npf.Process.Selections.Application\obj\Release\net6.0\ref\Npf.Process.Selections.Application.dll
